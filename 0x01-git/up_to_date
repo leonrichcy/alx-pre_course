@@ -1,0 +1,7 @@
+git fetch origin
+
+echo 
+
+git commit up_to_date
+
+git push origin main
